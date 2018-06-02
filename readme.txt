@@ -1,1 +1,3 @@
-创建了第一个文
+git command
+git citool = git gui
+
