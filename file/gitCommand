@@ -1,0 +1,4 @@
+git command
+git branch --set-upstream debug origin/debug 跟踪远程分支
+git branch -vv 本地跟踪远程分支信息
+git checkout --track origin/branch_name来在本地创建一个与branch_name同名分支跟踪远程分支。
